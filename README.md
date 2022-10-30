@@ -1,4 +1,4 @@
-# RubiksCube
+# RubiksCube ⬜🟦🟥🟩🟧🟨
 
 developped in: Java  
 tool for execution: Processing  
